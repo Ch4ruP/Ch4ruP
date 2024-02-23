@@ -4,22 +4,20 @@
   text-align: start;
 }
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-
 .page-header {
   top: 2%;
 }
 
+.nav {
+  display: inline-block;
+}
+
 .navbar-element {
-  margin: 1%;
+  margin: 2%;
 }
 
 .current-page {
-  margin: 1%;
+  margin: 2%;
   color: #3d46ff;
 }
+
