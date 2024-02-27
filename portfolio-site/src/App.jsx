@@ -18,7 +18,7 @@ function App() {
       <Router>
         <div className="page-header">
           <h1 className='page-title'>Charu Patel</h1>
-          <div className='nav'>
+          <nav className='nav'>
             <NavLink to="/" className={({ isActive }) =>
                 isActive ? "current-page" : "navbar-element"}>
               About
@@ -31,7 +31,7 @@ function App() {
                 isActive ? "current-page" : "navbar-element"}>
               Skills
             </NavLink>
-          </div>
+          </nav>
           <Routes className="load-page">
             <Route
               exact

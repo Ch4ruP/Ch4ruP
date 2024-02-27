@@ -14,7 +14,7 @@ function About() {
         - the Education page will tell you more about previous projects I've worked on for University coursework, 
         and the work I've undertaken as part of my apprenticeship with PwC. <br />
         - the Skills page shows some of the programming languages and tools that I have used, along with any
-        other relevant qualifications.
+        other relevant qualifications. It is much less detailed if you just want a quick scan!
         </p>
         <p>Link to my CV</p>
         <h2>Contact Information</h2> 
